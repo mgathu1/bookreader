@@ -1,10 +1,18 @@
-The Internet Archive BookReader is used to view books from the Internet Archive
-online and can also be used to view other books.
+A fork of the Internet Archive BookReader, used to view
+the Internet Archive's or other books.
 
-Developer documentation:
+Aims of this fork:
+- update libraries;
+- simplify the code;
+- separate the bookreader from the toolbar, for ease of customization.
+
+Original documentation
 http://openlibrary.org/dev/docs/bookreader
 
-Hosted source code:
+Original source code:
 http://github.com/openlibrary/bookreader
+
+
+
 
 The source code license is AGPL v3, as described in the LICENSE file.
